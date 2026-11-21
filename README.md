@@ -2,6 +2,9 @@
 
 WebGPU (`three/webgpu` + TSL Node Shaders + HDR Bloom) を活用した、iPad・スマホ・PC 向けの 3 レーン・パルクールアクションゲームです。
 
+## プレイする（GitHub Pages）
+https://terutoto01-png.github.io/neon-stride/
+
 ## 特徴
 - **WebGPU + TSL カスタムシェーダー & HDR Bloom**（未対応端末は WebGL2 自動フォールバック）
 - **立体 3D スカイウェイ**：カーブ・高低差・バンク（傾斜）のあるダイナミックコース
